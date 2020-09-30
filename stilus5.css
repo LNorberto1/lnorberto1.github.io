@@ -26,3 +26,8 @@ img.kicsi
 	height: 500px;
 	width: 500px;
 }
+li
+{
+	color: rgb(100,20,50);
+	font-style: italic
+}
